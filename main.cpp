@@ -12,10 +12,10 @@ int main() {
     while (true) {
         // Display menu
         cout << "Rock, Paper, Scissors Game!" << endl;
-        cout << "Choose:" << endl;
-        cout << "1. Rock" << endl;
-        cout << "2. Paper" << endl;
-        cout << "3. Scissors" << endl;
+        // cout << "Choose:" << endl;
+        // cout << "1. Rock" << endl;
+        // cout << "2. Paper" << endl;
+        // cout << "3. Scissors" << endl;
         cout << "playerChoice1 (1/2/3): ";
         cin >> playerChoice1;
         cout << "playerChoice2 (1/2/3): ";
